@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "role": "client",
+      "login": "roberto",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "role": "moderator",
+      "login": "mik",
+      "password": "qwert"
+    },
+    {
+      "id": 3,
+      "role": "admin",
+      "login": "jhon",
+      "password": "qazwsx"
+    }
+  ]
+}
